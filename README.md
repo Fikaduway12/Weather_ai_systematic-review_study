@@ -104,5 +104,14 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Contact
 
 For questions regarding this repository or the systematic review, please contact:
-- Fikadu Wayesa Gemeda: [email address]
-- Gizaw Tadele Bekele: [email address]
+- Fikadu Wayesa Gemeda: fikadu.wayesa1@gmail.com
+- Gizaw Tadele Bekele: tadelegizaw@gmail.com
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15028395.svg)](https://doi.org/10.5281/zenodo.15028395)
+
+## Citation
+
+If you use these supplementary materials, please cite:
+
+> Gemeda, F.W., Bekele, G.T., & Xia, J. (2026). Supplementary Materials for: Artificial Intelligence Applications in Weather Forecasting: A Systematic Review (Version v1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.15028395
